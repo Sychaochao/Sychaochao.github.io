@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>My syc</title>
+  <title>Yc -Blog</title>
   
-  
+  <subtitle>Yc~博客</subtitle>
   <link href="https://sychaochao.github.io/atom.xml" rel="self"/>
   
   <link href="https://sychaochao.github.io/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sychaochao.github.io/2020/08/26/hello-world/"/>
-    <id>https://sychaochao.github.io/2020/08/26/hello-world/</id>
+    <link href="https://sychaochao.github.io/posts/undefined.html"/>
+    <id>https://sychaochao.github.io/posts/undefined.html</id>
     <published>2020-08-26T00:13:58.400Z</published>
     <updated>2020-08-26T00:13:58.400Z</updated>
     
