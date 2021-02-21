@@ -6,7 +6,7 @@
   <link href="https://sychaochao.github.io/atom.xml" rel="self"/>
   
   <link href="https://sychaochao.github.io/"/>
-  <updated>2020-08-26T11:10:26.799Z</updated>
+  <updated>2021-02-21T09:38:35.596Z</updated>
   <id>https://sychaochao.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://sychaochao.github.io/posts/0.html"/>
+    <id>https://sychaochao.github.io/posts/0.html</id>
+    <published>2021-02-21T09:21:10.486Z</published>
+    <updated>2021-02-21T09:38:35.596Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>promise使用</title>
+    <link href="https://sychaochao.github.io/posts/undefined.html"/>
+    <id>https://sychaochao.github.io/posts/undefined.html</id>
+    <published>2020-10-15T06:36:00.000Z</published>
+    <updated>2021-02-21T10:07:14.139Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;new promise&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1816792526,903377191&amp;fm=26&amp;gp=0.jpg&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
